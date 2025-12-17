@@ -1,6 +1,6 @@
 ## ════ ACCOUNT INFORMATION ════>
 **>> C:\Windows\System32>whoami**  
-**>> desktop-cod3\raiserror**  
+**>> desktop-cod3\itgeroy**  
 
 **>> C:\Windows\System32>chcp**  
 **>> Текущая кодовая страница: 866**  
